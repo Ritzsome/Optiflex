@@ -1,0 +1,5 @@
+{
+  "name": "Optiflex AI",
+  "description": "A high-fidelity manufacturing digital twin simulating 10 CNC machines with real-time OEE, energy monitoring, and Gemini-powered predictive insights.",
+  "requestFramePermissions": []
+}
